@@ -7,3 +7,4 @@ from torchvision improt datasets, transforms
 from torch import nn, optim
 
 
+print("hi")
